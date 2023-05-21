@@ -1,5 +1,3 @@
-### Hello 👋
-
 I am just a student...
 
 Do I know what I am doing? No!

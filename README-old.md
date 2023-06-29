@@ -4,6 +4,8 @@ Do I know what I am doing? No!
 
 I just like computers, and school I guess.
 
+hopefully it goes well.
+
 <!--
 **DaintyJet/Daintyjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,8 @@
-I am just a student...
+I am just another student!
 
 Do I know what I am doing? No!
 
 I just like computers, and school I guess.
-
-Hopefully it goes well. If not I hope there is a plan...
 
 <!--
 **DaintyJet/Daintyjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
